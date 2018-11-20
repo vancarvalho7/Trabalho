@@ -14,6 +14,7 @@
 - Delete
 - Get
 - Put
+-GetByID
 
 ### Front End React
 Padrão de projeto MVVM 
